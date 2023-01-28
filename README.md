@@ -1,1 +1,1 @@
-# linting-circleci
+# linting with circleci
